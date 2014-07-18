@@ -1,0 +1,6 @@
+#Commit of files
+
+```{r}
+knit2html("./PA1_template.md")
+knit2html("./PA1_template.html")
+```
